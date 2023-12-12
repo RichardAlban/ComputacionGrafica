@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\bin\Debug\HoneyComb.exe.config
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\bin\Debug\HoneyComb.exe
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\bin\Debug\HoneyComb.pdb
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.frmHoneyComb.resources
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.exe
+C:\Users\HP\OneDrive\Documentos\Ayme\6 Nivel Espe\Grafica\HoneyComb\HoneyComb\obj\Debug\HoneyComb.pdb
